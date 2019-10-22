@@ -1,5 +1,5 @@
 
-<font color=red> **IOS 用户会出现APP闪退情况（不定时），因Apple证书不稳定造成**</font>
+<font color=red> IOS 用户会出现APP闪退情况（不定时），因Apple证书不稳定造成</font>
 
 
 
